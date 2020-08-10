@@ -1,0 +1,118 @@
+{
+    "depto": [
+        {
+            "3": {
+                "prefix": "AS",
+                "name": "Departamento de Astronomía"
+            }
+        },
+        {
+            "5": {
+                "prefix": "CC",
+                "name": "Departamento de Ciencias de la Computación"
+            }
+        },
+        {
+            "6": {
+                "prefix": "CI",
+                "name": "Departamento de Ingeniería Civil"
+            }
+        },
+        {
+            "306": {
+                "prefix": "CM",
+                "name": "Departamento de Ciencia de los Materiales"
+            }
+        },
+        {
+            "7": {
+                "prefix": "DR",
+                "name": "Área de Deportes, Recreación y Cultura"
+            }
+        },
+        {
+            "8": {
+                "prefix": "EH",
+                "name": "Estudios Transversales en Humanidades para las Ingenierías y Ciencias"
+            }
+        },
+        {
+            "9": {
+                "prefix": "EI",
+                "name": "Área de Idiomas, Escuela de Ingeniería"
+            }
+        },
+        {
+            "12060002": {
+                "prefix": "EI",
+                "name": "Área de Ingeniería e Innovación"
+            }
+        },
+        {
+            "27": {
+                "prefix": "EI",
+                "name": "Escuela de Ingeniería"
+            }
+        },
+        {
+            "10": {
+                "prefix": "EL",
+                "name": "Departamento de Ingeniería Eléctrica"
+            }
+        },
+        {
+            "303": {
+                "prefix": "EP",
+                "name": "Escuela de Postgrado"
+            }
+        },
+        {
+            "13": {
+                "prefix": "FI",
+                "name": "Departamento de Física"
+            }
+        },
+        {
+            "15": {
+                "prefix": "GF",
+                "name": "Departamento de Geofísica"
+            }
+        },
+        {
+            "16": {
+                "prefix": "GL",
+                "name": "Departamento de Geología"
+            }
+        },
+        {
+            "19": {
+                "prefix": "IN",
+                "name": "Departamento de Ingeniería Industrial"
+            }
+        },
+        {
+            "21": {
+                "prefix": "MA",
+                "name": "Departamento de Ingeniería Matemática"
+            }
+        },
+        {
+            "22": {
+                "prefix": "ME",
+                "name": "Departamento de Ingeniería Mecánica"
+            }
+        },
+        {
+            "23": {
+                "prefix": "MI",
+                "name": "Departamento de Ingeniería de Minas"
+            }
+        },
+        {
+            "307": {
+                "prefix": "QB",
+                "name": "Departamento de Ingeniería Química y Biotecnología"
+            }
+        }
+    ]
+}
