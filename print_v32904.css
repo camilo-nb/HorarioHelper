@@ -1,0 +1,79 @@
+@media print {
+ #contenedor_opciones,
+ #doodle,
+ #footer,
+ #grupos,
+ #header,
+ #mensaje,
+ #mensajes,
+ #modulos,
+ #navbar,
+ #toggler,
+ .boton,
+ .button,
+ .opcion,
+ .sticky_clone,
+ a.file,
+ form.buscar,
+ h1.modulo,
+ table .opciones,
+ table caption,
+ tr.search,
+ ul.modulo,
+ ul.paginas,
+ ul.submodulo {
+  display:none;
+  width:0
+ }
+ #navigation,
+ html {
+  margin:0
+ }
+ body {
+  font-size:12px
+ }
+ img.foto {
+  border-radius:0
+ }
+ h2,
+ h3 {
+  page-break-after:avoid
+ }
+ * {
+  font-family:Arial!important;
+  text-shadow:none!important;
+  box-shadow:none!important
+ }
+ .table-responsive {
+  border:0!important;
+  overflow:visible!important
+ }
+ .only-print,
+ .onlyprint {
+  display:block
+ }
+ .no-print,
+ .noprint {
+  display:none
+ }
+ .print-block,
+ .printblock {
+  page-break-inside:avoid
+ }
+ .newpage {
+  page-break-before:always
+ }
+ .endpage {
+  page-break-after:always
+ }
+ a {
+  color:#000
+ }
+ tbody input[type=text] {
+  width:90%
+ }
+ tbody input.currency {
+  width:30%;
+  min-width:100px
+ }
+}

@@ -1,0 +1,133 @@
+#body .color {
+ float:left;
+ margin-right:5px;
+ width:12px;
+ height:25px
+}
+#body ul.profes {
+ list-style-type:none;
+ margin-left:0;
+ padding-left:0
+}
+#body table tbody th em {
+ display:block
+}
+#body .gris {
+ background:#f0f0f0
+}
+#body #heat h3 {
+ white-space:nowrap;
+ overflow:hidden;
+ padding:0 10px 0 0;
+ text-overflow:ellipsis
+}
+#body #heat div.insc {
+ overflow:hidden;
+ float:left;
+ width:50%;
+ margin:0 10px;
+ padding:0 10px
+}
+@media (max-width:768px) {
+ #body #heat div.insc {
+  width:100%
+ }
+}
+#body #heat div.insc img.ramo {
+ float:left
+}
+#body #heat img.ramo {
+ border:1px solid #fff;
+ width:20px;
+ height:20px
+}
+#body table tr.tab td:nth-child(2) {
+ padding-left:2em
+}
+#body tr.anim-ok {
+ animation:anim-ok 2s ease-in-out
+}
+@keyframes anim-ok {
+ from {
+  background-color:#d6e9c6
+ }
+ to {
+  background-color:#fff
+ }
+}
+#body tr.anim-wrong {
+ animation:anim-wrong 2s ease-in-out
+}
+@keyframes anim-wrong {
+ from {
+  background-color:#ebccd1
+ }
+ to {
+  background-color:#fff
+ }
+}
+#body tr.anim-warn {
+ animation:anim-warn 2s ease-in-out
+}
+@keyframes anim-warn {
+ from {
+  background-color:#ffe4aa
+ }
+ to {
+  background-color:#fff
+ }
+}
+#body tr.anim-info {
+ animation:anim-info 2s ease-in-out
+}
+@keyframes anim-info {
+ from {
+  background-color:#bce8f1
+ }
+ to {
+  background-color:#fff
+ }
+}
+#body img.tr-drag {
+ width:13px;
+ cursor:move;
+ cursor:grab;
+ cursor:-moz-grab;
+ cursor:-webkit-grab
+}
+#body table.grabbing,
+#body table.grabbing * {
+ cursor:grabbing!important;
+ cursor:-moz-grabbing!important;
+ cursor:-webkit-grabbing!important
+}
+#body tr.grabbing {
+ background-color:#eee
+}
+#body .sticky input[name^=filtro] {
+ opacity:0
+}
+#body thead .pointer,
+#body thead .pointer label {
+ cursor:pointer
+}
+#body .selected,
+#body thead .pointer:hover {
+ background-color:#F9ECC7
+}
+#body a.deshabilitado {
+ color:#999
+}
+#body a.deshabilitado:hover {
+ color:#999
+}
+#body .cuadro {
+ margin:30px;
+ padding:20px;
+ border:1px solid #ccc;
+ border-radius:5px;
+ overflow:hidden
+}
+#body table div.pill {
+ font-size:1em
+}
